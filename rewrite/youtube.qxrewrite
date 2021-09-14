@@ -1,3 +1,5 @@
+hostname = *.googlevideo.com, s.youtube.com, www.youtube.com
+
 # YouTube去广告
 ctier=(?!SH)[\w-] url 302 citer=A
 ^https?:\/\/[\w-]+\.googlevideo\.com\/((?!(dclk_video_ads|videoplayback)).)+&(oad|ctier) url reject
