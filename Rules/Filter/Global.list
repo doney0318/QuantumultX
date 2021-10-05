@@ -7,9 +7,7 @@ DOMAIN,s3-ap-northeast-1.amazonaws.com,PROXY
 DOMAIN,s3-ap-southeast-2.amazonaws.com,PROXY
 # > Akamai
 DOMAIN,a248.e.akamai.net,PROXY
-DOMAIN,a771.dscq.akamai.net,PROXY
-# > Apple
-DOMAIN,testflight.apple.com,PROXY
+DOMAIN,a771.dscq.akamai.net,PROX
 # > Crypto
 DOMAIN-SUFFIX,aex.com,PROXY
 DOMAIN-SUFFIX,bibox.com,PROXY
@@ -526,19 +524,6 @@ DOMAIN-SUFFIX,smartmailcloud.com,PROXY
 DOMAIN-SUFFIX,weebly.com,PROXY
 DOMAIN-SUFFIX,twitter.jp,PROXY
 
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-DOMAIN-SUFFIX,appsto.re,PROXY
-DOMAIN,books.itunes.apple.com,PROXY
-DOMAIN,api-glb-sea.smoot.apple.com,PROXY
-DOMAIN,beta.music.apple.com,PROXY
-DOMAIN,tv.apple.com,PROXY
-# > App Store Web Preview
-DOMAIN,apps.apple.com,PROXY
-DOMAIN,itunes.apple.com,PROXY
-# > Look Up
-DOMAIN-SUFFIX,smoot.apple.com,PROXY
-DOMAIN,lookup-api.apple.com,PROXY
 # ------
 # Google
 DOMAIN-SUFFIX,go.dev,PROXY
@@ -555,12 +540,6 @@ DOMAIN-SUFFIX,sushi.com,PROXY
 # URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
 # (Network Jitter)
-# > Apple
-DOMAIN,appleid.apple.com,PROXY
-DOMAIN,developer.apple.com,PROXY
-DOMAIN,www.icloud.com,PROXY
-DOMAIN,ocsp.apple.com,PROXY
-DOMAIN,xp.apple.com,PROXY
 # > DigiCert
 DOMAIN,cacerts.digicert.com,PROXY
 DOMAIN,crl3.digicert.com,PROXY
