@@ -49,6 +49,8 @@
         "0 1,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_factory_component.png",
         "*/14 5-23 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, tag=中青看点极速版 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth.png",
         "20 5 10 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=中青看点浏览赚 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth_gain.png",
-        "35 */30 */2 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青看点阅读 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/Youth_Read.png"
+        "35 */30 */2 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青看点阅读 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/Youth_Read.png",
+        "*/10 5-23 * * * https://raw.githubusercontent.com/shufflewzc/Rules/main/Quantumult%20X/Youth/youth_sign.js, tag= 中青签到&转盘宝箱, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png",
+        "10 */2 * * * https://raw.githubusercontent.com/shufflewzc/Rules/main/Quantumult%20X/Youth/youth.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png"
     ]
 }
